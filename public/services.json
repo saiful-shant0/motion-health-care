@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "ICU",
+        "description": "Intensive care units (ICUs) are specialist hospital wards that provide treatment and monitoring for people who are very ill.",
+        "img": "https://i.ibb.co/Gx9BdQD/icu.jpg"
+    },
+    {
+        "id": 2,
+        "name": "NICU",
+        "description": "Newborn babies who need intensive medical care are often put in a special area of the hospital called the neonatal intensive care unit (NICU).",
+        "img": "https://i.ibb.co/6sFrSNH/nicu.jpg"
+    },
+    {
+        "id": 3,
+        "name": "PICU",
+        "description": "PICU stands for Pediatric Intensive Care Unit and is where children are taken when they require the highest level of quality pediatric care.",
+        "img": "https://i.ibb.co/R9VVWZc/picu.jpg"
+    },
+    {
+        "id": 4,
+        "name": "DIALYSIS",
+        "description": "Dialysis is a treatment that filters and purifies the blood using a machine. This helps keep your fluids and electrolytes in balance when the kidneys can't do their job.",
+        "img": "https://i.ibb.co/HhjCM1y/Dialysis-machine-is-working-Acting-as-a-substitute-for-the-kidneys-to-drive-waste-from-the-body.jpg"
+    },
+    {
+        "id": 5,
+        "name": "SURGERY",
+        "description": "Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate or treat a pathological condition such as a disease or injury.",
+        "img": "https://i.ibb.co/VgRD6xR/surgery.jpg"
+    },
+    {
+        "id": 6,
+        "name": "BLOOD BANK",
+        "description": "Blood donation is not hazardous and it proves to be a healthy habit that helps blood renewal. The volume of whole blood donation is 450 ml, almost 7.5% of the human body.",
+        "img": "https://i.ibb.co/YTPyLW5/bloodbank.jpg"
+    }
+]
