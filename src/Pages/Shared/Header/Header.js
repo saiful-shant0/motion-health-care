@@ -13,7 +13,7 @@ const Header = () => {
 
 
                 <Container>
-                    <Navbar.Brand href="#home"> <img
+                    <Navbar.Brand as={HashLink} to="/home#home"> <img
                         alt=""
                         src={logo}
 
@@ -23,7 +23,7 @@ const Header = () => {
                     <Navbar.Toggle />
                     <Navbar.Collapse className="justify-content-end">
                         <Nav className="me-auto">
-                            <Nav.Link as={Link} to="/home">Home</Nav.Link>
+                            <Nav.Link as={HashLink} to="/home#home">Home</Nav.Link>
                             <Nav.Link as={HashLink} to="/home#services">Services</Nav.Link>
                             <Nav.Link as={Link} to="/doctors">Doctors</Nav.Link>
                             <Nav.Link as={Link} to="/about">About Us</Nav.Link>

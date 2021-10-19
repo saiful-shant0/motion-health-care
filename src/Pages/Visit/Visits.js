@@ -1,11 +1,15 @@
 import React from 'react';
 import { useParams } from 'react-router';
 
-const Visits = () => {
+const Visits = (props) => {
     const { serviceId } = useParams();
+
+
+
     return (
-        <div>
-            <h2>This is Booking {serviceId}</h2>
+        <div className="text-center ">
+            <h2>This is visiting section {serviceId}</h2>
+            <h2>Devolopper is ill</h2>
         </div>
     );
 };
